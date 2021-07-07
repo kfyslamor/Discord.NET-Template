@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using Discord.Commands;
 using Microsoft.Extensions.Logging;
 
-namespace Template.Modules
+namespace CrewGangSim.Modules
 {
     public class ExampleModule : ModuleBase<SocketCommandContext>
     {

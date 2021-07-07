@@ -9,9 +9,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using Template.Services;
+using CrewGangSim.Services;
 
-namespace Template
+namespace CrewGangSim
 {
     class Program
     {
